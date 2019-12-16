@@ -7,11 +7,7 @@ public class Login {
 
 		System.out.println("test");
 		System.out.println("test from new branch");
-    System.out.println("test from new");
-
-		System.out.println("test from new branch 1");
-	  System.out.println("test from new branch 2");
-
+		System.out.println("test from new");
 	}
 
 }
